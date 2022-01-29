@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/BokunoAnime/static/css/main.fab27ee7.chunk.css",
+    "main.js": "/BokunoAnime/static/js/main.86b038c7.chunk.js",
+    "main.js.map": "/BokunoAnime/static/js/main.86b038c7.chunk.js.map",
+    "runtime-main.js": "/BokunoAnime/static/js/runtime-main.dfd74f2a.js",
+    "runtime-main.js.map": "/BokunoAnime/static/js/runtime-main.dfd74f2a.js.map",
+    "static/js/2.d22b8918.chunk.js": "/BokunoAnime/static/js/2.d22b8918.chunk.js",
+    "static/js/2.d22b8918.chunk.js.map": "/BokunoAnime/static/js/2.d22b8918.chunk.js.map",
+    "index.html": "/BokunoAnime/index.html",
+    "static/css/main.fab27ee7.chunk.css.map": "/BokunoAnime/static/css/main.fab27ee7.chunk.css.map",
+    "static/js/2.d22b8918.chunk.js.LICENSE.txt": "/BokunoAnime/static/js/2.d22b8918.chunk.js.LICENSE.txt",
+    "static/media/201932948_544186516940318_2957808492802132259_n.da9792dc.jpg": "/BokunoAnime/static/media/201932948_544186516940318_2957808492802132259_n.da9792dc.jpg",
+    "static/media/241074871_581234256568877_6490809748325775502_n.6ca3023f.jpg": "/BokunoAnime/static/media/241074871_581234256568877_6490809748325775502_n.6ca3023f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dfd74f2a.js",
+    "static/js/2.d22b8918.chunk.js",
+    "static/css/main.fab27ee7.chunk.css",
+    "static/js/main.86b038c7.chunk.js"
+  ]
+}
